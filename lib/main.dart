@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:gasolina_alcool/campo_textp.dart';
+import 'package:gasolina_alcool/campo_texto.dart';
 
 void main() {
   runApp(const MyApp());
